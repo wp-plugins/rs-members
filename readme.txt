@@ -28,13 +28,13 @@ RS-member is shortcode plug-in. Even without any programing knowledge, you can f
 
 = Registration: = 
 
-The directions of using the shortcode for registration in post and page are given below : 
+The directions of using the shortcode for registration in post and page are given below: 
 
 <code>
 [rsmembers-registration]
 </code>
 
-Directions of using registration shortcode  in custom template :
+Directions of using registration shortcode  in custom template:
 
 <code>
 <?php echo do_shortcode( '[rsmembers-registration]' ); ?>
@@ -48,7 +48,7 @@ Directions of using shortcode in post and page.
 [rsmembers-login]
 </code>
 
-Directions of using shortcode in custom template :
+Directions of using shortcode in custom template:
 <code>
 <?php echo do_shortcode( '[rsmembers-login]' ); ?>
 </code>
