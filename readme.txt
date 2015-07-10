@@ -1,4 +1,4 @@
-=== RS-Members ===
+﻿=== RS-Members ===
 Contributors: themexpo
 Tags: access, authentication, content, login, member,  Membership, memberships, password, protect, register, registration, restriction,subscriber,paypal,2checkouts,Authorize.net,Woocommerce, bbpress, buddypress  
 Requires at least: 3.1
