@@ -62,7 +62,6 @@ Directions of using shortcode in custom template:
 * Custom validation Rules. 
 * Forget password system.
 * Newsletter.  
-* Free account system.  
 * Free membership trail period.   
 * Member list CSV export.  
 * Site Authority gets Notification after new registration. 
