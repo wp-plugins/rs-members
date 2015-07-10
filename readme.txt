@@ -24,27 +24,31 @@ plug-in’s shortcode.
 
 = Shortcode base: = 
 
-RS-member is shortcode plug-in. Even without any programing knowledge, you can fulfil your demand by using this plug-in’s  
+RS-member is shortcode plug-in. Even without any programing knowledge, you can fulfil your demand by using this plug-in.
+
 = Registration: = 
 
-The directions of using the shortcode for registration in post and page are given below: 
+The directions of using the shortcode for registration in post and page are given below : 
+
 <code>
 [rsmembers-registration]
 </code>
-Directions of using registration shortcode  in custom template:
- <code>
+
+Directions of using registration shortcode  in custom template :
+
+<code>
 <?php echo do_shortcode( '[rsmembers-registration]' ); ?>
 </code>
 
 = Log in: = 
 
 Directions of using shortcode in post and page.
-<code>
 
+<code>
 [rsmembers-login]
 </code>
 
-Directions of using shortcode in custom template 
+Directions of using shortcode in custom template :
 <code>
 <?php echo do_shortcode( '[rsmembers-login]' ); ?>
 </code>
@@ -97,7 +101,7 @@ for plug-in installation are given below:
 1. Downlaod latest version of this plugin.
 2. Unzip this pluign to your computer.
 3. Uplaod the / rs-members directory to the wp-content/pluigns/ directory of your site.
-4. Activate the plugin through the “plugins” menu in wordpress.
+4. Activate the plugin through the plugins menu in wordpress.
 For your more questions please viste our site 
 
 == Frequently Asked Questions ==
