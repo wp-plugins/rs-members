@@ -143,5 +143,3 @@ author uri : http://www.themexpo.net/
 Plugin URI: http://wordpress.org/plugins/rs-members/
 Description: RS-members is wordpress most powerful membership plugin many many features are include there.
 Version: 1.0.1
-
-
