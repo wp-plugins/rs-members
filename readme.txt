@@ -3,7 +3,7 @@ Contributors: themexpo
 Tags: access, authentication, content, login, member,  Membership, memberships, password, protect, register, registration, restriction,subscriber,paypal,2checkouts,Authorize.net,Woocommerce, bbpress, buddypress  
 Requires at least: 3.1
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
