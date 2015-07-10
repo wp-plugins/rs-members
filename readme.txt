@@ -13,8 +13,9 @@ RS-members is wordpress most powerful and free membership plugin many many featu
 
 RS-members is a powerful membership plug-in. You will be able to store and protect different types of posts, pages, downloadable  
 files, audio-video files by using this plug-in. Even you will able to protect and store important content within those files  
-using this plug-in. 
-Currently “Firstname”, “Lastname”, “username”, “password”, “confirm password” fields are given in the admin panel of this plug-in.  
+using this plug-in.
+ 
+Currently Firstname,Lastname,username,password,confirm password fields are given in the admin panel of this plug-in.  
 You can create your own registration field and can add, edit, delete any of them later on according to your need. Changing the  
 Field order is simple with a drag-and-drop interface. RS-member plug-in can be used with different themes. 
 
@@ -72,14 +73,14 @@ Directions of using shortcode in custom template
 * Digital product downloads.
 * New member Notification.  
 
-=Upcomeing free features:=
+= Upcomeing free features: =
  
 * Woocommerce, bbpress, buddypress integrate.
 * Social Media Connect (facebook/twitter/Linkdin).  
 * Custom CSS feature.
 * Manage Member Role. 
 
-=Paid features:=
+= Paid features: =
 
 * Paypal payment getway.
 * 2 checkouts.
