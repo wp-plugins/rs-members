@@ -3,7 +3,7 @@
 	Plugin Name: RS Members
 	Plugin URI: http://wordpress.org/plugins/rs-members/
 	Description: RS-members is wordpress most powerful membership plugin many many features are include there.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: themexpo
 	Author URI: http://www.themexpo.net/
 	License: GPL3+
@@ -32,7 +32,7 @@ class RsMembers{
 	private static $_instance = NULL;
 
 	const PLUGIN_NAME = 'RS Members';	// plugin's full name
-	const PLUGIN_VERSION = '1.0.1';				// plugin version
+	const PLUGIN_VERSION = '1.0.2';				// plugin version
 	const PLUGIN_SLUG = 'rs-members';			// plugin slug name
 	const PLUGIN_DOMAIN = 'rsmembers';			// the text domain used by the plugin
 	//const OPTION_NAME = 'rsmembers_options';
