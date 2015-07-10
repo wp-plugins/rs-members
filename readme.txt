@@ -7,7 +7,7 @@ Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-RS-members is wordpress most powerful and free membership plugin many many features are include there.
+Description: RS-members is wordpress most powerful and free membership plugin many many features are include there.
 
 == Description ==
 
@@ -19,8 +19,6 @@ Currently Firstname,Lastname,username,password,confirm password fields are given
 You can create your own registration field and can add, edit, delete any of them later on according to your need. Changing the  
 Field order is simple with a drag-and-drop interface. RS-member plug-in can be used with different themes. 
 
-* **Shortcode base:** RS-member is shortcode plug-in. Even without any programing knowledge, you can fulfil your demand by using this  
-plug-in’s shortcode.
 
 = Shortcode base: = 
 
