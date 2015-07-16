@@ -18,6 +18,15 @@ RS-Members is a very powerful but easy to use content restriction membership plu
 *Our [Complete User Guide] (http://www.themexpo.net/wpplugins/rs-members/users-guide)
 *our [support forum](http://www.themexpo.net/forum/discussion/wpplugins/rs-members)
 
+= upcoming Paid features: =
+
+* Paypal payment getway.
+* 2 checkouts.
+* Authorize.net 
+* Mailchamp, Aweber, Campian Monitor. 
+* Coupon Code Configuration.  
+
+
 = Shortcode base: = 
 
 RS-member is shortcode plug-in. Even without any programing knowledge, you can fulfil your demand by using this plug-in.
@@ -88,13 +97,7 @@ Directions of using shortcode in post or page.
 * Custom CSS feature.
 * Manage Member Role. 
 
-= upcoming Paid features: =
-
-* Paypal payment getway.
-* 2 checkouts.
-* Authorize.net 
-* Mailchamp, Aweber, Campian Monitor. 
-* Coupon Code Configuration.    
+ 
 
 == Installation ==
 
