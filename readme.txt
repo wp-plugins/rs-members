@@ -15,8 +15,9 @@ RS-Members is a very powerful but easy to use content restriction membership plu
 
 = Support Documents: =
 
-*Our [Complete User Guide] (http://www.themexpo.net/wpplugins/rs-members/users-guide)
-*our [support forum](http://www.themexpo.net/forum/discussion/wpplugins/rs-members)
+*Our [Complete User Guide](http://www.themexpo.net/wpplugins/rs-members/users-guide).
+
+*our [support forum](http://www.themexpo.net/forum/discussion/wpplugins/rs-members).
 
 = upcoming Paid features: =
 
