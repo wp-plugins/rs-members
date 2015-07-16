@@ -3,7 +3,6 @@
  * RS-members is wordpress most powerful membership plugin many many features are include there.
  *
  * @link       http://www.themexpo.net
- * @since      1.0.1
  *
  * @package    rs-members
  */
@@ -96,17 +95,17 @@ class RsMembersAdmin
 	public function register_scripts(){
 				
 		
-		wp_enqueue_style( rsmembers::PLUGIN_SLUG.'-tab-component', $this->_plugin->get_assets_url('css/component.css'), array(), rsmembers::PLUGIN_VERSION );
-		wp_enqueue_style( rsmembers::PLUGIN_SLUG.'-notify', $this->_plugin->get_assets_url('css/notify.css'), array(), rsmembers::PLUGIN_VERSION );
-		wp_enqueue_style( rsmembers::PLUGIN_SLUG.'-tokenize', $this->_plugin->get_assets_url('css/selectivity-full.min.css'), array(), rsmembers::PLUGIN_VERSION );
-		wp_enqueue_style( rsmembers::PLUGIN_SLUG.'-invmodal', $this->_plugin->get_assets_url('css/invmodal.css'), array(), rsmembers::PLUGIN_VERSION );
+		wp_enqueue_style( 'tab-component', $this->_plugin->get_assets_url('css/component.css'), array(), rsmembers::PLUGIN_VERSION );
+		wp_enqueue_style( 'notify', $this->_plugin->get_assets_url('css/notify.css'), array(), rsmembers::PLUGIN_VERSION );
+		wp_enqueue_style( 'tokenize', $this->_plugin->get_assets_url('css/selectivity-full.min.css'), array(), rsmembers::PLUGIN_VERSION );
+		wp_enqueue_style( 'invmodal', $this->_plugin->get_assets_url('css/invmodal.css'), array(), rsmembers::PLUGIN_VERSION );
 				
 		wp_enqueue_script( 'jquery' );
 		wp_enqueue_script( 'jquery-ui-sortable' );				
-		wp_enqueue_script( rsmembers::PLUGIN_SLUG.'-tab_script', $this->_plugin->get_assets_url('js/cbpFWTabs.js') );
-		wp_enqueue_script( rsmembers::PLUGIN_SLUG.'-notify', $this->_plugin->get_assets_url('js/jquery-notify.js') );
-		wp_enqueue_script( rsmembers::PLUGIN_SLUG.'-tokenize', $this->_plugin->get_assets_url('js/selectivity-full.min.js') );
-		wp_enqueue_script( rsmembers::PLUGIN_SLUG.'-jquery.invmodal', $this->_plugin->get_assets_url('js/jquery.invmodal.js') );
+		wp_enqueue_script( 'tab_script', $this->_plugin->get_assets_url('js/cbpFWTabs.js') );
+		wp_enqueue_script( 'notify', $this->_plugin->get_assets_url('js/jquery-notify.js') );
+		wp_enqueue_script( 'tokenize', $this->_plugin->get_assets_url('js/selectivity-full.min.js') );
+		wp_enqueue_script( 'jquery.invmodal', $this->_plugin->get_assets_url('js/jquery.invmodal.js') );
 			
 	}
 	
@@ -134,7 +133,11 @@ class RsMembersAdmin
                             	
                                 <div class="inner_col_2">
                                     <h3 class="title">RS-Members News :</h3>
-                                    Version : 1.0.1
+                                    <ul>
+                                    <li>Version : <?php echo rsmembers::PLUGIN_VERSION;?></li>
+                                    <li><a href="http://www.themexpo.net/wpplugins/rs-members/users-guide" target="_blank">Complete User Guide</a></li>
+                                    <li><a href="http://www.themexpo.net/forum/discussion/wpplugins/rs-members" target="_blank">Our Support Forum</a></li>
+                                    </ul>
                             	</div>
                                 <div class="inner_col_2">
                                     <h3 class="title">Upcoming free features :</h3>

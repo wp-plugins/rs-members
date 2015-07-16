@@ -3,7 +3,6 @@
  * RS-members is wordpress most powerful membership plugin many many features are include there.
  *
  * @link       http://www.themexpo.net
- * @since      1.0.1
  *
  * @package    rs-members
  */

@@ -11,7 +11,12 @@ Description: RS-members is wordpress most powerful and free membership plugin ma
 
 == Description ==
 
-RS-Membership is a very powerful but easy to use membership plugin. It is able to handle your small business to large membership or product base store.  You can easily protect your premium content, product, page, post even a single text using this useful plugin. It is simple to use to modify your settings to less and increase member registration fields, required message for various activity, Email newsletter for specific members and you don't need any technical/coding knowledge. You just need to put shortcode to create registration panel, login panel anywhere of a page, post or an individual page even you can use these shortcodes in any custom template.
+RS-Members is a very powerful but easy to use content restriction membership plugin. It is able to handle your small business to large membership or product base store. You can easily restrict your premium content, product, page, post even a single text using this useful plugin. It is simple to use to modify your settings to less and increase member registration fields, required message for various activity, Email newsletter for specific members and you don't need any technical/coding knowledge. You just need to put shortcode to create registration panel, login panel anywhere of a page, post or an individual page even you can use these shortcodes in any custom template.
+
+= Support Documents: =
+
+*Our [Complete User Guide] (http://www.themexpo.net/wpplugins/rs-members/users-guide)
+*our [support forum](http://www.themexpo.net/forum/discussion/wpplugins/rs-members)
 
 = Shortcode base: = 
 
@@ -19,7 +24,7 @@ RS-member is shortcode plug-in. Even without any programing knowledge, you can f
 
 = Registration: = 
 
-The directions of using the shortcode for registration in post and page are given below: 
+The directions of using the shortcode for registration in post or page are given below: 
 
 <code>
 [rsmembers-registration]
@@ -33,7 +38,7 @@ Directions of using registration shortcode  in custom template:
 
 = Log in: = 
 
-Directions of using shortcode in post and page.
+Directions of using shortcode in post or page.
 
 <code>
 [rsmembers-login]
@@ -44,8 +49,17 @@ Directions of using shortcode in custom template:
 <?php echo do_shortcode( '[rsmembers-login]' ); ?>
 </code>
 
+= content Restricted: = 
 
-= Free features: =
+Directions of using shortcode in post or page.
+
+<code>
+[rsmembers-contentrestriction]  [/rsmembers-contentrestriction]
+</code>
+
+
+
+= Free Features: =
 
 * Registertion widget.  
 * Login widget.      
@@ -67,14 +81,14 @@ Directions of using shortcode in custom template:
 * Digital product downloads.
 * New member Notification.  
 
-= Upcomeing free features: =
+= Upcoming free features: =
  
 * Woocommerce, bbpress, buddypress integrate.
 * Social Media Connect (facebook/twitter/Linkdin).  
 * Custom CSS feature.
 * Manage Member Role. 
 
-= Paid features: =
+= upcoming Paid features: =
 
 * Paypal payment getway.
 * 2 checkouts.
