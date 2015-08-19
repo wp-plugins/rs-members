@@ -2,7 +2,7 @@
 Contributors: themexpo
 Tags: access, authentication, content, login, member,  Membership, memberships, password, protect, register, registration, restriction,subscriber,paypal,2checkouts,Authorize.net,Woocommerce, bbpress, buddypress  
 Requires at least: 3.1
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,14 +11,17 @@ Description: RS-members is wordpress most powerful and free membership plugin ma
 
 == Description ==
 
-RS-Members is a very powerful but easy to use content restriction membership plugin. It is able to handle your small business to large membership or product base store. You can easily restrict your premium content, product, page, post even a single text using this useful plugin. It is simple to use to modify your settings to less and increase member registration fields, required message for various activity, Email newsletter for specific members and you don't need any technical/coding knowledge. You just need to put shortcode to create registration panel, login panel anywhere of a page, post or an individual page even you can use these shortcodes in any custom template.
+RS-Members is a very powerful but easy to use content restriction membership plugin. It is able to handle your small business to large membership or product base store. You can easily restrict your premium content, product, page, post even a single text using this useful plugin. 
+
+It is simple to use to modify your settings to less and increase member registration fields, required message for various activity, Email newsletter for specific members and you don't need any technical/coding knowledge. You just need to put shortcode to create registration panel, login panel anywhere of a page, post or an individual page even you can use these shortcodes in any custom template.
+
 
 = Support Documents: =
 
 *Our [Complete User Guide](http://www.themexpo.net/wpplugins/rs-members/users-guide).
 *our [support forum](http://www.themexpo.net/forum/discussion/wpplugins/rs-members).
 
-= upcoming Paid features: =
+= Upcoming addons: =
 
 * Paypal payment getway.
 * 2 checkouts.
@@ -151,4 +154,4 @@ Pluign Author: themexpo
 author uri : http://www.themexpo.net/
 Plugin URI: http://wordpress.org/plugins/rs-members/
 Description: RS-members is wordpress most powerful membership plugin many many features are include there.
-Version: 1.0.1
+Version: 1.0.2
